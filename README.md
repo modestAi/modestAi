@@ -1,4 +1,4 @@
-## Hi there, I'm The modest AI! 👋
+## Hi there, I'm The modest AI! 
 
 🌱 I’m currently learning Typescript, React and Go
 
