@@ -1,6 +1,6 @@
-## Hi there, I'm The modest AI! 
+## Hello
 
-🌱 I’m currently learning Typescript, React and Go
+I like writing code
 
 ### **Languages and Tools**
 
