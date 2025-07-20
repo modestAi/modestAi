@@ -9,6 +9,7 @@ I like writing code ¯\_(ツ)_/¯
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <a href="https://github.com/milansav/milansav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modestAi&theme=tokyonight&layout=compact"/>
